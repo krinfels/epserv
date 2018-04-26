@@ -1,0 +1,7 @@
+service cv
+{
+	uid     
+		service;
+	ipc
+		USER;
+};
